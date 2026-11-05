@@ -1,0 +1,9 @@
+# Local tooling and build output
+.claude/
+deploy/
+__pycache__/
+*.pyc
+# Claude Design handoff bundle (125 MB of source PNGs, videos and screenshots) - kept locally, not in the repo
+promaxx-website/
+# Client-facing handover documents (kept private)
+handover/

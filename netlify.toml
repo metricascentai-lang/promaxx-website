@@ -1,0 +1,4 @@
+# Netlify reads this when the GitHub repo is connected: no build step, publish the site/ folder.
+[build]
+  publish = "site"
+  command = ""
