@@ -1,0 +1,3 @@
+# Old Framer page address -> new contact page (rewrite, so no redirect loop)
+/contact    /contact.html    200
+/contact/   /contact.html    200
